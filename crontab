@@ -1,0 +1,3 @@
+# m h  dom mon dow   command
+# Call to Withings API every 15 Minutes to check for new weight data
+*/4 * * * * curl --silent --compressed "http://localhost/withings.php" > /dev/null
