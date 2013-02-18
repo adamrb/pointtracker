@@ -12,3 +12,5 @@ It's modeled similar to a popular commercial calorie tracking website that uses 
 Create an account, provide basic information, and it will give you a daily and weekly points allowance. Enter and track your daily food consumption.
 
 Includes integration with Calorieking for Nutrition information lookup, Twitter, and the Withings Wifi enabled body scale.
+
+You can find more information [https://github.com/adamrb/pointtracker/wiki](in the wiki}
