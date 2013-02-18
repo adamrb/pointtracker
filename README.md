@@ -13,4 +13,4 @@ Create an account, provide basic information, and it will give you a daily and w
 
 Includes integration with Calorieking for Nutrition information lookup, Twitter, and the Withings Wifi enabled body scale.
 
-You can find more information [https://github.com/adamrb/pointtracker/wiki](in the wiki)
+You can find more information [in the wiki](https://github.com/adamrb/pointtracker/wiki)
